@@ -1,5 +1,5 @@
 # Simon-Necktie Online Shopping Web Application
-A fully featured online necktie shopping mall made using ASP.NET, C# 
+A fully featured online necktie shopping mall website made using ASP.NET, C# 
 
 <h2> List of Major Functions </h2> 
 <table>
